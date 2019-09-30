@@ -1,0 +1,35 @@
+coercion : implicitly changing the type of a value in order to complete an operation correctly
+binding : a relationship between a name and something else in a program
+method : a function which performs an action on an object
+overloading : assigning multiple meanings to the same name in a program
+parameter : a variable carrying input in to a function or method
+argument : a value passed in to a parameter
+interpreted : a language that is executed line-by-line by another program
+compiled : a language that is converted from source code in to machine code before it is executed
+runtime error : an error in a program due to it performing an illegal operation during its execution
+syntax error : an error in a program due to it not conforming to the grammar of the language
+operator : a symbol or keyword used to identify an operation to be performed on one or more expressions
+literal : a value written in to the code of a program 
+is : the python operator that determines if the identity of two objects is the same
+== : the python operator that deterimens if the value of two objects is the same
+statement : A single instruction in an imperative program
+side affect : a change in state of a program outside of the current scope, or a change to the environment outside of a program (due to the program)
+block : a sequence of statements and other blocks in a program
+referencing environment : collection of variable bindings available within a certain scope of a program
+mutable : can be changed 
+immutable : cannot be changed
+casting : explicitly converting a value of one type to another
+strong types : a type system in which operations can only be attempted on data that conforms to the type constraints necessary for the operation
+static types : a type system in which the type of values which can be stored in a variable are specified at the time the program is compiled and cannot be changed at run time
+dynamic types : a type system in which the type of values stored in variables may change during run time
+duck : a typing scheme which determines types are compatible as long as the requested methods or properties are present within the object
+short circuit : the type of evaluation of boolean expressions which ends as soon as the final value of the expression can be determined
+syntactic sugar : a language construct that is unnecessary but perhaps makes code shorter or easier to read
+slicing : the process of taking a subsequence of a sequence by specifying a range with the beginning and ending values separated by a colon
+list : a datastructure which contains a sequence of objects and is mutable
+tuple : a datastructure which contains a sequence of objects and is immutable
+set : a datastructure which does not support order or multiplicity of elements and is mutable
+frozen set : a datastructure which does not support order or multiplicity of elements and is immutable
+dictionary : a datastructure which relates arbitrary, hashable, and immutable keys to arbitrary values
+concatenation : an operation which joins two sequences together in a new sequence
+del : the keyword in java used to remove a variable binding (or a key-value relationship from a collection)
